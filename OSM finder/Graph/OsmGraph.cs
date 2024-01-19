@@ -1,4 +1,6 @@
-﻿namespace OSM_finder;
+﻿using System.Collections.Generic;
+
+namespace OSM_finder;
 
 public class OsmGraph
 {

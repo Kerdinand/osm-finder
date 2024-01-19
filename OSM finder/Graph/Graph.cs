@@ -1,4 +1,7 @@
-﻿namespace OSM_finder;
+﻿using System;
+using System.Collections.Generic;
+
+namespace OSM_finder;
 
 public class Graph
 {

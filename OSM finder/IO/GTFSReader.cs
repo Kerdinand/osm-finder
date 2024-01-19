@@ -1,4 +1,6 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
 using System.Xml;
 using OSM_finder.IO;
 using OSM_finder.Structures;
